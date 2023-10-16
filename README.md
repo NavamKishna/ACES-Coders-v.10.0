@@ -3,7 +3,7 @@
 Welcome to the repository for ACES Coders V10.0 2023, the largest on-site Algorithmic Coding competition in Sri Lanka organized by the Association of Computer Engineering Students (ACES), Faculty of Engineering, University of Peradeniya.
 
 ## Team Members
-- Harikishna  (GitHub: [harikishnav](https://github.com/harikishnav))
+- Harikishna  (GitHub: [harikishnav](https://github.com/NavamKishna))
 - Navaneethan (GitHub: [navaneethan01](https://github.com/navaneethan01))
 - Hariismenen (GitHub: [hariismenen](https://github.com/hariismenen))
 
@@ -25,8 +25,6 @@ We welcome contributions and improvements to our solutions. If you'd like to con
 4. Push your changes to your forked repository
 5. Create a pull request to merge your changes into this repository
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
 
 Happy Coding!
 
@@ -34,4 +32,3 @@ Happy Coding!
 
 ---
 
-**Note**: If you haven't added an `aces_logo.png` file, please replace the path in the image tag accordingly or remove it. Also, make sure to place the actual logo file in the repository.
