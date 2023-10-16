@@ -28,7 +28,7 @@ We welcome contributions and improvements to our solutions. If you'd like to con
 
 Happy Coding!
 
-![ACES Logo](aces_logo.png)
+![ACES Logo](Aces.jpg)
 
 ---
 
