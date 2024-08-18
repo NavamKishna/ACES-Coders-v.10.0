@@ -5,7 +5,7 @@ Welcome to the repository for ACES Coders V10.0 2023, the largest on-site Algori
 ## Team Members
 - Harikishna  (GitHub: [harikishnav](https://github.com/NavamKishna))
 - Navaneethan (GitHub: [navaneethanbc](https://github.com/navaneethanbc))
-- Hariismenen (GitHub: [hariismenen](https://github.com/hariismenen))
+- Hariismenen (GitHub: [hariismenen](https://github.com/harismenen))
 
 ## Introduction
 This repository contains the solutions to the problems presented during the #ACES-Coders-v.10.0 HackerRank competition. As a team, we participated in this competition as second-year Computer Science and Engineering undergraduates from the University of Moratuwa.
